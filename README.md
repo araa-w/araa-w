@@ -1,5 +1,3 @@
-### 👋 Hi, I’m Fatimah Azzahra
-A final-year Information Systems student at Universitas Dharma Andalas with a 3.89 GPA. Passionate about Object-Oriented Programming and Data Analysis, with hands-on experience as a Teaching Assistant for an OOP course.
 
 # 💫 About Me:
 ### 👋 Hi, I am Fatimah Azzahra,
